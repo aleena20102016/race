@@ -160,7 +160,7 @@ function car1_up()
 		if(car2_y<=500)
 		{
 			car2_y = car2_y + 10;
-			console.log("when down arrow is preesed, x = " + car2_x + " | y = " + car2-y);
+			console.log("when down arrow is preesed, x = " + car2_x + " | y = " + car2_y);
 			uploadBackground();
 			uploadcar1();
 			uploadcar2();
